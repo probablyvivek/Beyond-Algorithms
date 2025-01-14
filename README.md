@@ -32,7 +32,7 @@ Here's what I'm planning next:
 
 Stay connected with my journey and updates on social media:
 
-- **X:** [@VisualizeTrends](https://twitter.com/VisualizeTrends)
+- **X:** [VisualizeTrends](https://twitter.com/VisualizeTrends)
 - **LinkedIn:** [Vivek Tiwari](https://www.linkedin.com/in/vivektiwari13/)
 - **Instagram:** [Visualize Trends](https://www.instagram.com/visualizetrends/)
 - **Tableau Public:** [Visualize Trends](https://public.tableau.com/app/profile/visualizetrends/vizzes)
